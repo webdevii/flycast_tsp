@@ -1,0 +1,80 @@
+sh: setterm: not found
+current_mode 1280x720
+SDL_UDEV_DEVICEADDED 2 /dev/input/event1
+SDL_UDEV_DEVICEADDED 8 /dev/audio
+SDL_UDEV_DEVICEADDED 8 /dev/dsp
+SDL_UDEV_DEVICEADDED 2 /dev/input/event2
+SDL_UDEV_DEVICEADDED 8 /dev/mixer
+SDL_UDEV_DEVICEADDED 8 /dev/snd/pcmC0D0c
+SDL_UDEV_DEVICEADDED 8 /dev/snd/pcmC0D0p
+SDL_UDEV_DEVICEADDED 8 /dev/snd/controlC0
+SDL_UDEV_DEVICEADDED 2 /dev/input/event0
+SDL_UDEV_DEVICEADDED 4 /dev/input/event3
+SDL_UDEV_DEVICEADDED 4 /dev/input/js0
+SDL_UDEV_DEVICEADDED 8 /dev/snd/seq
+SDL_UDEV_DEVICEADDED 8 /dev/sequencer
+SDL_UDEV_DEVICEADDED 8 /dev/sequencer2
+SDL_UDEV_DEVICEADDED 8 /dev/snd/timer
+00:00:000 sdl/sdl.cpp:693 N[COMMON]: Saved window position is not on any connected display, resetting to primary display
+00:00:025 sdl/sdl.cpp:775 N[RENDERER]: Monitor refresh rate: 60 Hz (1280 x 720)
+00:00:090 rend/vulkan/vulkan_context.cpp:302 N[RENDERER]: Vulkan API 1.1. Device PowerVR Rogue GE8300
+00:00:093 rend/vulkan/vulkan_context.cpp:456 N[RENDERER]: Device extension enabled: VK_KHR_swapchain
+00:00:093 rend/vulkan/vulkan_context.cpp:459 N[RENDERER]: Device extension unavailable: VK_KHR_portability_subset
+00:00:093 rend/vulkan/vulkan_context.cpp:456 N[RENDERER]: Device extension enabled: VK_EXT_provoking_vertex
+00:00:118 rend/vulkan/vulkan_context.h:356 N[RENDERER]: Using depth format D32SfloatS8Uint tiling Optimal
+00:00:132 ui/gui.cpp:535 N[RENDERER]: Screen DPI is 96, size 1280 x 720. Scaling by 1.35
+00:00:415 rend/vulkan/vulkan_renderer.cpp:252 N[RENDERER]: VulkanRenderer::Init
+00:00:422 sdl/dreamlink.cpp:85 N[INPUT]: GUID: 0300a3845e0400008e02000014010000 VID:045e PID:028e
+00:00:422 sdl/sdl_gamepad.cpp:220 N[INPUT]: SDL: Opened joystick 0 on port 0: 'Xbox 360 Controller' unique_id=sdl_joystick_0
+00:00:774 rend/vulkan/vulkan_context.h:356 N[RENDERER]: Using depth format D32SfloatS8Uint tiling Optimal
+00:07:213 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:07:248 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 0x7f791e0000 RAM(16 MB) 0x7f851e0000 VRAM64(8 MB) 0x7f7d1e0000 ARAM(2 MB) 0x7f991e0000
+00:07:278 hw/mem/addrspace.cpp:425 N[VMEM]: Info: nvmem is enabled
+00:07:298 hw/mem/addrspace.cpp:457 N[VMEM]: BASE 0x7f791e0000 RAM(16 MB) 0x7f851e0000 VRAM64(8 MB) 0x7f7d1e0000 ARAM(2 MB) 0x7f991e0000
+00:07:345 emulator.cpp:63 N[BOOT]: Game ID is [MK-5118450]
+00:07:345 emulator.cpp:221 N[BOOT]: USA region not supported. Using Europe instead
+00:07:361 emulator.cpp:604 N[BOOT]: Did not load BIOS, using reios
+00:07:363 emulator.cpp:63 N[BOOT]: Game ID is [MK-5118450]
+00:07:365 sdl/sdl_gamepad.cpp:653 N[INPUT]: Resetting SDL gamepad to default: 0 1
+00:07:388 reios/reios.cpp:638 N[REIOS]: -----------------
+00:07:388 reios/reios.cpp:639 N[REIOS]: REIOS: Booting up
+00:07:388 reios/reios.cpp:640 N[REIOS]: -----------------
+00:13:320 sdl/sdl_gamepad.cpp:653 N[INPUT]: Resetting SDL gamepad to default: 0 1
+sh: setterm: not found
+00:13:739 sdl/sdl_gamepad.cpp:502 N[INPUT]: SDL: Joystick 'Xbox 360 Controller' on port 0 disconnected
+PVR_Vulkan_LoadLibrary
+MALI_CreateWindow:0x4238b040 done.
+PVR_Vulkan_GetInstanceExtensions, 140
+PVR_Vulkan_GetInstanceExtensions, 140
+PVR_Vulkan_CreateSurface, 155
+SDL_UDEV_DEVICEADDED 2 /dev/input/event1
+SDL_UDEV_DEVICEADDED 8 /dev/audio
+SDL_UDEV_DEVICEADDED 8 /dev/dsp
+SDL_UDEV_DEVICEADDED 2 /dev/input/event2
+SDL_UDEV_DEVICEADDED 8 /dev/mixer
+SDL_UDEV_DEVICEADDED 8 /dev/snd/pcmC0D0c
+SDL_UDEV_DEVICEADDED 8 /dev/snd/pcmC0D0p
+SDL_UDEV_DEVICEADDED 8 /dev/snd/controlC0
+SDL_UDEV_DEVICEADDED 2 /dev/input/event0
+SDL_UDEV_DEVICEADDED 4 /dev/input/event3
+SDL_UDEV_DEVICEADDED 4 /dev/input/js0
+SDL_UDEV_DEVICEADDED 8 /dev/snd/seq
+SDL_UDEV_DEVICEADDED 8 /dev/sequencer
+SDL_UDEV_DEVICEADDED 8 /dev/sequencer2
+SDL_UDEV_DEVICEADDED 8 /dev/snd/timer
+SDL_UDEV_DEVICEADDED 2 /dev/input/event1
+SDL_UDEV_DEVICEADDED 8 /dev/audio
+SDL_UDEV_DEVICEADDED 8 /dev/dsp
+SDL_UDEV_DEVICEADDED 2 /dev/input/event2
+SDL_UDEV_DEVICEADDED 8 /dev/mixer
+SDL_UDEV_DEVICEADDED 8 /dev/snd/pcmC0D0c
+SDL_UDEV_DEVICEADDED 8 /dev/snd/pcmC0D0p
+SDL_UDEV_DEVICEADDED 8 /dev/snd/controlC0
+SDL_UDEV_DEVICEADDED 2 /dev/input/event0
+SDL_UDEV_DEVICEADDED 4 /dev/input/event3
+SDL_UDEV_DEVICEADDED 4 /dev/input/js0
+SDL_UDEV_DEVICEADDED 8 /dev/snd/seq
+SDL_UDEV_DEVICEADDED 8 /dev/sequencer
+SDL_UDEV_DEVICEADDED 8 /dev/sequencer2
+SDL_UDEV_DEVICEADDED 8 /dev/snd/timer
+PVR_Vulkan_UnloadLibrary, 121

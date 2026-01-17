@@ -1,0 +1,7 @@
+==============================
+TaskMgr SA LAUNCH Sun Dec 28 14:24:42 EET 2025
+Script: ./launch.sh
+PWD: /mnt/SDCARD/Apps/TaskMgr
+CONFIG_CFG=TASKMGR-SA
+Init_StandAlone.sh FOUND
+SOURCING Init_StandAlone.sh

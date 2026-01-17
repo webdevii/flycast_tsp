@@ -1,0 +1,7 @@
+{
+"label":"Dreamcast",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Эмулятор Dreamcast (Flycast)"
+}
