@@ -32,6 +32,8 @@ Final directory structure:
 /.config
 ```
 
+After installation, the **Dreamcast** section will appear in the **Applications** menu.
+
 ---
 
 ## ⚙️ Emulator Settings
