@@ -64,7 +64,8 @@ Use Boost **only when the game is stable**.
 ```
 images/
  ├── flycast_preview.png
- └── gameplay_1.png
+ ├── gameplay_1.png
+ └── gameplay_2.png
 ```
 
 ---
@@ -75,7 +76,9 @@ If you like this project and want to support development:
 
 - ⭐ Star this repository
 - 📺 Subscribe to my **YouTube channel**
+👉 [Lesyk](https://www.youtube.com/@lesyk1_ua)
 - 💸 Send a donation via **cryptocurrency**
+👉 (USDT TRC20): TFNyZZYzk2VP99fXLMjjtpiXSHiBiucTKH
 
 Every bit of support helps improve performance, compatibility, and future features.
 
@@ -92,3 +95,4 @@ Some features are experimental and may behave differently depending on the game.
 
 This project follows the license of the original **Flycast** project.  
 All rights belong to their respective owners.
+
