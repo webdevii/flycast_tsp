@@ -60,19 +60,6 @@ Use Boost **only when the game is stable**.
 
 ---
 
-## 🖼 Screenshots
-
-> *(Add your screenshots here)*
-
-```
-images/
- ├── flycast_preview.png
- ├── gameplay_1.png
- └── gameplay_2.png
-```
-
----
-
 ## ❤️ Support the Project
 
 If you like this project and want to support development:
