@@ -33,7 +33,7 @@ Final directory structure:
 ```
 
 After installation, the **Dreamcast** section will appear in the **Applications** menu.
-
+![Flycast Emulator](./images/screen1.jpg)
 ---
 
 ## ⚙️ Emulator Settings
@@ -46,6 +46,7 @@ After installation, the **Dreamcast** section will appear in the **Applications*
 
 ⚠️ Do **NOT** enable both at the same time.
 
+![Flycast Emulator](./images/screen0.jpg)
 ---
 
 ## 🚀 Boost Mode – Important Notes
