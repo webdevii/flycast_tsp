@@ -66,7 +66,7 @@ If you like this project and want to support development:
 
 - ⭐ Star this repository
 - 📺 Subscribe to my **YouTube channel**
-👉 [Lesyk](https://www.youtube.com/@lesyk1_ua)
+👉 [Lesyk](https://www.youtube.com/@sww-dev)
 - 💸 Send a donation via **cryptocurrency**
 👉 (USDT TRC20): TFNyZZYzk2VP99fXLMjjtpiXSHiBiucTKH
 
